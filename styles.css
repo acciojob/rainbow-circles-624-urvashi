@@ -1,4 +1,4 @@
-#outer {
+div#outer {
     height: 300px;
     width: 300px;
     background-color: #ff0000;
@@ -8,7 +8,7 @@
     align-items: center;
 }
 
-#middle {
+div>#middle {
     height: 250px;
     width: 250px;
     background-color: #ffa500;
@@ -18,7 +18,7 @@
     align-items: center;
 }
 
-#inner {
+div>#inner {
     height: 200px;
     width: 200px;
     background-color: #ffff00;
