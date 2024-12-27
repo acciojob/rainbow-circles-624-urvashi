@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+#outer{
+	height: 300px;
+	width:300px;
+	border:20px solid #ff0000 ;
+	border-radius:50%;
+	display:flex;
+
+
+#middle{
+	height: 250px;
+	width:250px;
+	border:25px solid #ffa500 ;
+	border-radius:50%;
+}
+
+#inner{
+	height: 200px;
+	width:200px;
+	border:30px solid #ffff00;
+	border-radius:50%;
+	display:flex;
+}
+
+#inner-green{
+	height: 150px;
+	width:150px;
+	border:25px solid #008000;
+	border-radius:50%;
+}
+#blue{
+	height: 100px;
+	width:100px;
+	border:27px solid #0000ff;
+	border-radius:50%;
+}
+
+#violet{
+	height: 50px;
+	width:50px;
+	border: 25px solid #800080;
+	border-radius:50%;
+	background-color: #800080;
+}
